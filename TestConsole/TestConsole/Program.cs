@@ -6,7 +6,7 @@ namespace TestConsole
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!ChangeCommit");
+			Console.WriteLine ("Hello World!ChangeCommitchangelocally");
 		}
 	}
 }
