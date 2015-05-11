@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="TestConsole/TestConsole.csproj" />
+﻿<Properties StartupItem="TestConsole/TestConsole.csproj" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestConsole/Program.cs">
+    <Files>
+      <File FileName="TestConsole/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
