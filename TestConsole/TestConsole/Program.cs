@@ -6,7 +6,7 @@ namespace TestConsole
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!ServerChanges");
+			Console.WriteLine ("Hello World!ServerChanges1");
 		}
 	}
 }
